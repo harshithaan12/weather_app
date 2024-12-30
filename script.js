@@ -1,6 +1,6 @@
 
 function getWeather() {
-    const apiKey = 'e68f923fd164b1a7537192af9f6fccd3'; // Replace with your OpenWeatherMap API key
+    const apiKey = 'YOUR-API-KEY'; // Replace with your OpenWeatherMap API key
     const city = document.getElementById('city').value.trim();
 
     // List of cities in Karnataka
